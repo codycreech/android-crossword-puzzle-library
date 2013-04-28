@@ -1,4 +1,6 @@
-package com.example.crosswordpuzzleactivity;
+package com.project.crosswordpuzzleactivity;
+
+import com.example.crosswordpuzzleactivity.R;
 
 import android.os.Bundle;
 import android.app.Activity;

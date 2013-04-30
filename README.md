@@ -1,4 +1,6 @@
 android-crossword-puzzle-library
 ================================
 
-An android library to create crossword puzzles.
+Starting up a project for an android library to create crossword puzzles.
+
+Feel free to contribute.
